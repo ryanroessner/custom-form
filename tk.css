@@ -7,7 +7,7 @@
     padding: 0.5em 1.5em;
     border: none;
     border-radius: 999px; /* Full pill shape */
-    background-color: #28a745; /* Green or your preferred color */
+    background-color: #9ac133; /* Green or your preferred color */
     color: white;
     font-size: 1rem;
     font-family: inherit;
@@ -16,7 +16,7 @@
   }
   
   .wufoo  #saveForm:hover {
-    background-color: #218838;
+    background-color: #4d7620;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   }
 
