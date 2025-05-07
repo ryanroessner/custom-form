@@ -22,8 +22,7 @@
 
 .wufoo .info h2 {
     color: #676767 !important;
-    text-align: center;
-    font-family: reader;
+    text-align: left;
     font-size: 36px !important;
     font-family: reader-regular, sans-serif;
 }
