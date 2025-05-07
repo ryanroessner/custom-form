@@ -1,3 +1,8 @@
+.wufoo{
+ font-family: reader-regular, sans-serif !important;
+}
+    
+
 .wufoo #saveForm {
     padding: 0.5em 1.5em;
     border: none;
@@ -14,3 +19,11 @@
     background-color: #218838;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   }
+
+.wufoo .info h2 {
+    color: #000000 !important;
+    text-align: center;
+    font-family: reader;
+    font-size: 36px !important;
+    font-family: reader-regular, sans-serif;
+}
