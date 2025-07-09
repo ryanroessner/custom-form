@@ -4,6 +4,9 @@
     
 
 .wufoo #saveForm {
+ display: block;
+    margin: 0 auto;
+    float: none;
     padding: 0.5em 1.5em;
     border: none;
     border-radius: 999px; /* Full pill shape */
