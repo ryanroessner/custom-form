@@ -27,6 +27,7 @@ input.medium, select.medium {
     float: none;
     padding: 0.5em 1.5em;
     border: none;
+ border-radius:0px;
     background-color: #B87D23; /* Green or your preferred color */
     color: white;
     font-size: 1rem;
