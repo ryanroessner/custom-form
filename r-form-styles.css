@@ -4,11 +4,15 @@
 
 .wufoo label.desc{
 text-transform: uppercase !important;
-font-size:12px !important;
 letter-spacing: 5px !important;
 }
 
-
+.redesigned-theme-2018 form span.req {
+    color: #2685c6 !important;
+   left: 0px;
+    position: absolute;
+   top: 0px; 
+}
 
 #container, html.embed {
     background-color: none;
