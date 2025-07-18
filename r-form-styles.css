@@ -9,6 +9,7 @@ span.req {
  position:relative !important;
    left:0px !important;
    top:0px !important; 
+ color:#000 !important;
 }
 
 .redesigned-theme-2018 input.checkbox:checked+label.choice:before {
