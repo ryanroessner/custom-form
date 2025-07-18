@@ -22,12 +22,11 @@ span.req {
 color:#000 !important;
 }
 
-label.choice {
-    border-radius: 0px !important;
-}
+
 
 .redesigned-theme-2018 input.checkbox:checked+label.choice:before {
     background-color: #B87D23 !important;
+ border-radius: 0px !important;
 }
 
 .redesigned-theme-2018 input.checkbox:checked+label.choice:after {
