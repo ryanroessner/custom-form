@@ -15,6 +15,9 @@ span.req {
     background-color: #B87D23 !important;
 }
 
+input.medium, select.medium {
+    width: 100% !important;
+}
 
     
 
