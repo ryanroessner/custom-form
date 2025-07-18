@@ -29,6 +29,11 @@ color:#000 !important;
  border-radius: 0px !important;
 }
 
+.redesigned-theme-2018 .subfield label.choice:before {
+    border-radius: 0px !important;
+  
+}
+
 .redesigned-theme-2018 input.checkbox:checked+label.choice:after {
    transform: scale(.7);
 }
