@@ -2,6 +2,7 @@
 .wufoo label.desc{
 text-transform: uppercase !important;
 letter-spacing: 5px !important;
+ padding-bottom: 0px !important;
 }
 
 span.req {
@@ -14,9 +15,7 @@ span.req {
     background-color: #B87D23 !important;
 }
 
-#container, html.embed {
-    background-color: none;
-}
+
     
 
 .wufoo #saveForm {
