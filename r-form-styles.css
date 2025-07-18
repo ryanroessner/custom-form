@@ -3,9 +3,9 @@
 }
 
 .wufoo label.desc{
-text-transform: uppercase;
+text-transform: uppercase !important;
 font-size:12px !important;
-letter-spacing: 5px;
+letter-spacing: 5px !important;
 }
 
 
