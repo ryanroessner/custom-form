@@ -8,10 +8,10 @@ letter-spacing: 5px !important;
 }
 
 .redesigned-theme-2018 form span.req {
-    color: #2685c6 !important;
-   left: 0px;
-    position: absolute;
-   top: 0px; 
+  
+   left:0px !important;
+    position:relative !important;
+   top:0px !important; 
 }
 
 #container, html.embed {
