@@ -17,13 +17,13 @@ padding: 8px !important;
 
 .wufoo label.desc{
 text-transform: uppercase !important;
-letter-spacing: 1px !important;
+letter-spacing: 2px !important;
  padding-bottom: 2px !important;
 }
 
 .wufoo legend.desc {
 text-transform: uppercase !important;
-letter-spacing: 3px !important;
+letter-spacing: 2px !important;
  padding-bottom: 8px !important;
 }
 
