@@ -1,8 +1,8 @@
 
 .wufoo label.desc{
 text-transform: uppercase !important;
-letter-spacing: 5px !important;
- padding-bottom: 0px !important;
+letter-spacing: 3px !important;
+ padding-bottom: 2px !important;
 }
 
 span.req {
