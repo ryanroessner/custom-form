@@ -7,7 +7,7 @@
 }
 
 
-#fo722li219, #fo722li220, #fo722li3, #fo722li118 {
+#fo722li219, #fo722li220, #fo722li3, #fo722li118 #fo722li10{
 padding: 8px !important;
 }
 
@@ -17,7 +17,7 @@ padding: 8px !important;
 
 .wufoo label.desc{
 text-transform: uppercase !important;
-letter-spacing: 3px !important;
+letter-spacing: 1px !important;
  padding-bottom: 2px !important;
 }
 
