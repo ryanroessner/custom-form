@@ -11,6 +11,10 @@
 padding: 8px !important;
 }
 
+.redesigned-theme-2018 label.choice {
+    padding-bottom:2px !important;
+}
+
 .wufoo label.desc{
 text-transform: uppercase !important;
 letter-spacing: 3px !important;
