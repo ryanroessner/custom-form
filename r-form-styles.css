@@ -1,6 +1,11 @@
 #logo{
  display:none !important;
 }
+
+#header{
+ display:none !important;
+}
+
 .wufoo label.desc{
 text-transform: uppercase !important;
 letter-spacing: 3px !important;
