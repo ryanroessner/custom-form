@@ -13,8 +13,8 @@ letter-spacing: 3px !important;
 
 span.req {
  position:relative !important;
-   left:0px !important;
-   top:0px !important; 
+   left:-4px !important;
+   top:6px !important; 
  color:#000 !important;
 }
 
