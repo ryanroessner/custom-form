@@ -7,10 +7,9 @@ text-transform: uppercase !important;
 letter-spacing: 5px !important;
 }
 
-.redesigned-theme-2018 form span.req {
-  
+span.req {
+ position:relative !important;
    left:0px !important;
-    position:relative !important;
    top:0px !important; 
 }
 
