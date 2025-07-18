@@ -26,6 +26,10 @@ color:#000 !important;
     background-color: #B87D23 !important;
 }
 
+.redesigned-theme-2018 input.checkbox:checked+label.choice:after {
+   transform: scale(.7);
+}
+
 input.medium, select.medium {
     width: 100% !important;
 }
