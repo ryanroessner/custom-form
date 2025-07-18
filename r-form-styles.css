@@ -10,6 +10,10 @@ span.req {
    top:0px !important; 
 }
 
+.redesigned-theme-2018 input.checkbox:checked+label.choice:before {
+    background-color: #B87D23 !important;
+}
+
 #container, html.embed {
     background-color: none;
 }
